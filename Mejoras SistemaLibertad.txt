@@ -1,0 +1,4 @@
+Mejoras sistema Libertad
+- Consulta para el rastreo de mermas de un número de maquila
+- Reporte de salidas agrupar por empleado y calcular totales.
+- Reporte de ventas por vendedor agrupado por sucursal en columnas. Mostrar totales.

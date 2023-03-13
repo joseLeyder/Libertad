@@ -1,0 +1,34 @@
+
+	FTP
+	Server 50.97.128.139
+	User: creativ1_libertad
+	Password: l1b3rtaD_
+
+
+	FTP General
+	Server 50.97.128.139
+	User: creativ1_ftp
+	Password: 65lzuI8iodtMmkNfvnrajcUh73PpqbD9gy4wxsZe
+	
+	
+    FTP General
+	Server 50.97.128.139
+	User: creativ1_update
+	Password: 65lzuI8iodtMmkNfvnrajcUh73PpqbD9gy4wxsZe
+
+
+    <!--Local-->
+    <add key="UrlBase" value="https://localhost:44359"/>
+    <!--Produccion-->
+    <!--<add key="UrlBase" value="http://cidfares.com.mx.negox.com/libertad"/>-->
+	
+	
+	//Local
+	"strConnection": "Data Source=50.97.128.140;Initial Catalog=creativ1_libertad; user=creativ1_userlibertad; password=l1b3rtaD_; Timeout=0;",
+	//Produccion
+	 "strConnection": "Data Source=10.61.44.196;Initial Catalog=creativ1_libertad_pro; user=creativ1_userlibertadpro; password=l1b3rtaD_Pro; Timeout=0;",
+
+	
+	
+	
+	
